@@ -16,9 +16,7 @@
 title: HandledException.NET
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Blog about exceptions that I handled
 twitter_username: NikolaMarkezic
 github_username: nmarkezic
 minimal_mistakes_skin: default
@@ -60,7 +58,7 @@ plugins:
 author:
   name   : "Nikola Markezić"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Blog about exceptions that I handled"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
