@@ -17,7 +17,6 @@ title: HandledException.NET
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Blog about exceptions that I handled
-baseurl: https://handledexception.net/
 twitter_username: NikolaMarkezic
 github_username: nmarkezic
 minimal_mistakes_skin: default
