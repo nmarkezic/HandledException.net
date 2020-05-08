@@ -17,7 +17,7 @@ title: HandledException.NET
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Blog about exceptions that I handled
-baseurl: https://
+baseurl: https://handledexception.net/
 twitter_username: NikolaMarkezic
 github_username: nmarkezic
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Nikola Markezić"
-  avatar : "avatars1.githubusercontent.com/u/47824182?s=400&u=da128a41f1e9ac519e60c6229028ea475466dd48&v=4"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Blog about exceptions that I handled"
   links:
     - label: "Twitter"
