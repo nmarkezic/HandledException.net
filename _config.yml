@@ -69,6 +69,10 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/markezic/"
+    - label: "Feed"
+      icon: "fab fa-fw fa-rss-square"
+      url: "https://handledexception.net/feed"
+      
 
 footer:
   links:
@@ -81,6 +85,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/markezic/"
+    - label: "Feed"
+      icon: "fab fa-fw fa-rss-square"
+      url: "https://handledexception.net/feed"
 
 defaults:
   # _posts
