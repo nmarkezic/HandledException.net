@@ -109,12 +109,11 @@ tag_archive:
   type: liquid
   path: /tags/
 
-repository: nmarkezic/HandledException.net
+
 comments:
-  provider: "utterances"
-  utterances:
-    theme: "github-light" # "github-dark"
-    issue_term: "pathname"
+  provider: "disqus"
+  disqus:
+    shortname: "handledexception"
 
 analytics:
   provider: "google"
