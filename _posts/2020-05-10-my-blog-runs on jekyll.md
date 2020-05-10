@@ -18,7 +18,7 @@ Few reasons why I chose to do so:
 - It is simple and easy to setup
 - Focus is on writing content
 
-## Fast and cheap to run
+### Fast and cheap to run
 
 I wanted to have control over my blog, so from day one going with one of the blog platforms did not felt right but having control did bring some costs to the picture. Those are not significant costs but there are some like hosting cost. And then I stumbled upon  [GitHub Pages][gh-pages].
 
@@ -28,7 +28,7 @@ You can provide custom domain for your own custom URL and GitHub provides the SS
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/1/gh-pages-custom-domain.jpg){: .align-center}
 
-## It is simple and easy to setup
+### It is simple and easy to setup
 
 On the home page for the GitHub Pages there is a link that suggest using Jekyll for blogging on GitHub Pages. After following the link and googling about it I had my first blog up and running in under 30 minutes.
 
@@ -38,10 +38,12 @@ The guides and explanations that the author have provided are clear and to the p
 
 I would recommend anyone that thinks of starting a blog to go and checkout this theme.
 
-## Focus is on writing
+### Focus is on writing
 When it came to the realization of my wish to setup a blog first I explored the idea of .NET blog engine, then I thought of rolling my own blog engine using ASP.NET Core, but at the end I realized that the blog engine was just the tool for the job, and first step I took out of my own comfort zone led me to this beautiful discovery that is Jekyll.
 
-The focus of any blog should always be on writing content and sharing something, and I made a mistake of complicating this simple thing and losing one or two years of writing content. Maybe it would be mediocre content, but maybe it would help some to handle one or two exceptions that popped out during development.  Do not do what I did and just start writing.  
+The focus of any blog should always be on writing content and sharing something, and I made a mistake of complicating this simple thing and losing one or two years of writing content. Maybe it would be mediocre content, but maybe it would help some to handle one or two exceptions that popped out during development.  
+
+**Do not do what I did and just start writing.**  
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [gh-pages]:   https://pages.github.com/
