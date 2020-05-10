@@ -43,9 +43,6 @@ When it came to the realization of my wish to setup a blog first I explored the 
 
 The focus of any blog should always be on writing content and sharing something, and I made a mistake of complicating this simple thing and losing one or two years of writing content. Maybe it would be mediocre content, but maybe it would help some to handle one or two exceptions that popped out during development.  Do not do what I did and just start writing.  
 
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [gh-pages]:   https://pages.github.com/
 [mm]: https://mmistakes.github.io/minimal-mistakes/
