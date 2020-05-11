@@ -30,7 +30,7 @@ GitHub Pages as the name says are hosted with GitHub for free. They are hosted d
 
 You can provide custom domain for your own custom URL and GitHub provides the SSL certificate for free.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/1/gh-pages-custom-domain.jpg){: .align-center}
+![GitHub Pages custom domain](/assets/images/1/gh-pages-custom-domain.jpg){: .align-center}
 
 ### It is simple and easy to setup
 
