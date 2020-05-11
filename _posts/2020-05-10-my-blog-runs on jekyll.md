@@ -14,6 +14,7 @@ I am a primarily .NET developer, nevertheless, I chose to run my blog with [Jeky
 From the beginning of my professional career my weapon of choice was .NET Framework. I enjoyed the old .NET, both framework and Visual Studio IDE, when there was no place for Microsoft and cross platform or open source in the same sentence. And I straight out love the new cross platform, open source Microsoft. Most of my time these days I work with .NET Core in some degree and I love every second of it, for blogging purposes I went with Jekyll.
 
 Few reasons why I chose to do so:
+
 - Fast but cheap to run
 - It is simple and easy to setup
 - Focus is on writing content
@@ -38,7 +39,8 @@ The guides and explanations that the author have provided are clear and to the p
 
 I would recommend anyone that thinks of starting a blog to go and checkout this theme.
 
-### Focus is on writing
+### Focus is on writing content
+
 When it came to the realization of my wish to setup a blog first I explored the idea of .NET blog engine, then I thought of rolling my own blog engine using ASP.NET Core, but at the end I realized that the blog engine was just the tool for the job, and first step I took out of my own comfort zone led me to this beautiful discovery that is Jekyll.
 
 The focus of any blog should always be on writing content and sharing something, and I made a mistake of complicating this simple thing and losing one or two years of writing content. Maybe it would be mediocre content, but maybe it would help some to handle one or two exceptions that popped out during development.  
