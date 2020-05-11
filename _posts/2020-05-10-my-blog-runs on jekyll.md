@@ -1,6 +1,7 @@
 ---
 title: "My blog runs on Jekyll, but why?"
 date: 2020-05-10T23:56:30+02:00
+excerpt_separator: "<!--more-->"
 categories:
   - blog
 tags:
@@ -12,6 +13,8 @@ tags:
 I am a primarily .NET developer, nevertheless, I chose to run my blog with [Jekyll][jekyll-docs] on GitHub Pages!
 
 From the beginning of my professional career my weapon of choice was .NET Framework. I enjoyed the old .NET, both framework and Visual Studio IDE, when there was no place for Microsoft and cross platform or open source in the same sentence. And I straight out love the new cross platform, open source Microsoft. Most of my time these days I work with .NET Core in some degree and I love every second of it, for blogging purposes I went with Jekyll.
+
+<!--more-->
 
 Few reasons why I chose to do so:
 
