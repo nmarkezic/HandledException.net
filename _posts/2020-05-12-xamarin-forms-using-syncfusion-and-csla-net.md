@@ -3,7 +3,7 @@ title: "Xamarin Forms using Syncfusion controls and CSLA.NET"
 date: 2020-05-12T10:09:30+02:00
 excerpt_separator: "<!--more-->"
 toc: true
-toc-sticky: true
+toc_sticky: true
 categories:
   - blog
 tags:
@@ -93,7 +93,7 @@ This example uses CSLA.NET base classes to create view models that will bind to 
 
 The need here is a simple and concise way to get all of this data and bind it to the UI to provide good user experience, but at the same time not to spend too much time implementing this functionality.
 
-##### CSLA.NET `PropertyInfo<T>`
+#### CSLA.NET `PropertyInfo<T>`
 
 Using CSLA.NET `BusinessBase<T>` base class we will create our own business object for the Login page. The model looks something like this:
 
@@ -126,7 +126,7 @@ Our main point of interest here is the `PropertyInfo`. It will provide us with a
             </inputLayout:SfTextInputLayout>
 ```
 
-##### CSLA.NET Business Rules
+#### CSLA.NET Business Rules
 
 At this point we have set up the XAML binding for our view model. Our view model uses CSLA.NET base classes that implement `INotifyPropertyChanged` so the class will respond to any change of data as expected.
 That leaves us to set the business rules for this class. CSLA.NET has a powerful business rules subsystem that is used for both validation and authorization. In this example we will use only validation rules.
